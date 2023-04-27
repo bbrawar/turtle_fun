@@ -8,6 +8,6 @@ while i<100:
     turtle.right(45)
     turtle.forward(i)
     turtle.circle(i,270)
-    turtle.forward(i)
+    #turtle.forward(i)
     i+=1
 
